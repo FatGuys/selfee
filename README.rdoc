@@ -6,3 +6,5 @@
 * Create a branch with your name and the name of the card E.g. mike/login
 * Create a PR and wait for a +1
 * Merge to master
+
+Testing trello connectio
